@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/moggie-master-hardware-station-arduino/hardware/station-arduino"
+		},
+		{
+			"name": "timestep",
+			"path": "../../timestep"
+		},
+		{
+			"name": "try",
+			"path": "../../try"
+		},
+		{
+			"name": "ts_sep",
+			"path": "../../ts_sep"
+		},
+		{
+			"name": "wifi_prov",
+			"path": "../../wifi_prov"
+		},
+		{
+			"name": "wifi_provtion",
+			"path": ".."
+		},
+		{
+			"name": "WIFI",
+			"path": "../../WIFI"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"wifi.h": "c",
+			"wifitype.h": "c",
+			"string": "cpp",
+			"*.tcc": "cpp",
+			"list": "cpp"
+		}
+	}
+}
